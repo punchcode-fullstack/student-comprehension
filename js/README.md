@@ -1,0 +1,1 @@
+# This portion is dedicated to comprehension of material in js
